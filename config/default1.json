@@ -1,0 +1,11 @@
+{
+    "list_url": [
+        {
+            "docs": "https://s3.ap-south-1.amazonaws.com/myswagger/demo_swagger.json",
+            "base_path": "http://host13.dev.swamp.sv2.tellme.com:7070/",
+            "route_match": ["/audit*", "/etlstate*"]
+        }
+    ],
+    "info": { "title": "Example API", "version": "1.0" },
+    "port": 3000
+}
